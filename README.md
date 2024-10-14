@@ -11,7 +11,6 @@ I am 24 years old and a Software Developer. I live in Izmir. My passion is to re
 
 Skills: C# / MySQL / PostgreSQL/ .NET Core / BootStrap / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning .Net Core 
 - 💬 Ask me about .Net Core, HTML, CSS, PostgreSQL, MySQL 
 - 📫 How to reach me: kubrayavuzeer@gmail.com 
