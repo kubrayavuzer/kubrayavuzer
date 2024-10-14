@@ -19,6 +19,8 @@ Skills: C# / MySQL / PostgreSQL/ .NET Core / BootStrap / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kubrayavuzer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kubrayavuzer/)  
 
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kubrayavuzer)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrayavuzer)](https://github.com/anuraghazra/github-readme-stats)
