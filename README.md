@@ -5,7 +5,7 @@
  
 
 ### Hi there 👋, Kübra Yavuzer
-#### A passionate frontend developer from Turkey. I strive to achieve better every day. Constant learning is my hobby.
+#### A passionate software developer from Turkey. I strive to achieve better every day. Constant learning is my hobby.
 I am 24 years old and a Software Developer. I live in Izmir. My passion is to research software and develop new projects.
 
 
