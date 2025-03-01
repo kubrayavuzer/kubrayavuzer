@@ -7,10 +7,9 @@
 ### Hi there 👋, Kübra Yavuzer
 
 
-Skills: C# / MySQL / PostgreSQL/ .NET Core / BootStrap / HTML / CSS
+Skills: C# / MySQL / PostgreSQL/ .NET Core / BootStrap / HTML / CSS / JavaScript / React
 
-- 🌱 I’m currently learning .Net Core 
-- 💬 Ask me about .Net Core, HTML, CSS, PostgreSQL, MySQL 
+
 - 📫 How to reach me: kubrayavuzeer@gmail.com 
 
 
